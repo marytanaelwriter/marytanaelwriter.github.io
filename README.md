@@ -2,7 +2,7 @@
 
 Hello!
 
-Thank you for your interest and for taking the time to review <code<[my technical writing portfolio](https://marytanaelwriter.github.io/)</code>.
+Thank you for your interest and for taking the time to review <code>[my technical writing portfolio](https://marytanaelwriter.github.io/)</code>.
 
 Here's some quick info about me: I hold a Bachelor's Degree in Creative Writing. I have over four years of experience in content writing, copywriting, technical writing, and editing. (You can learn more about me <code>[here](https://github.com/marytanaelwriter)</code>.)
 
